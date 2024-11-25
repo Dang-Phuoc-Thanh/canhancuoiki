@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_home" android:title="home" android:icon="@drawable/baseline_home_24"></item>
+    <item android:id="@+id/menu_setting" android:title="setting" android:icon="@drawable/baseline_settings_24"></item>
+    <item android:id="@+id/menu_profile" android:title="profile" android:icon="@drawable/baseline_account_circle_24"></item>
+
+</menu>
